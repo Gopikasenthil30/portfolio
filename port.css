@@ -1,0 +1,88 @@
+#text{
+    margin-left: 60%;
+    color: white;
+}
+#color{
+    margin-bottom: 10%;
+    margin-left: 8%;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#head{
+    font-size:50px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 900;
+    font-style: normal;
+    
+}
+#head1,#head2,#head3,#head4,#head5,#head6{
+    font-size:23px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#text{
+    margin-left: 60%;
+    color: white;
+}
+#a{
+    text-decoration:none ;
+    color: black;
+    font-size:50px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#color{
+    margin-bottom: 10%;
+    margin-left: 8%;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#head{
+    font-size:50px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#head1,#head2,#head3,#head4,#head5,#head6{
+    font-size:19px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.size{
+    font-size: 15px;
+}
+.text1{
+    font-size: medium;
+}
+
+.logo1{
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.port1{
+    width: 400px;
+    height: 400px;
+    margin: 10px !important;
+    padding-bottom: 20px;
+}
+.snd{
+    width: 200px !important;
+    border-radius: 20px !important;
+}
+
+.icon3{
+    font-size: x-large;
+    align-items: center;
+}
+.logo2{
+    font-size: x-large;
+}
+
